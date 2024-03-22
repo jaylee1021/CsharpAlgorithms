@@ -927,11 +927,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\lejy\\Desktop\\Software_Engineering\\CsharpAlgorithms\\Exercise Files\\01\\01_02\\start\\Algorithms\\Algorithms.csproj",
+      "projectUniqueName": "c:\\Users\\lejy\\Desktop\\Software_Engineering\\CsharpAlgorithms\\Exercise Files\\01\\01_02\\start\\Algorithms\\Algorithms.csproj",
       "projectName": "Algorithms",
-      "projectPath": "C:\\Users\\lejy\\Desktop\\Software_Engineering\\CsharpAlgorithms\\Exercise Files\\01\\01_02\\start\\Algorithms\\Algorithms.csproj",
+      "projectPath": "c:\\Users\\lejy\\Desktop\\Software_Engineering\\CsharpAlgorithms\\Exercise Files\\01\\01_02\\start\\Algorithms\\Algorithms.csproj",
       "packagesPath": "C:\\Users\\lejy\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\lejy\\Desktop\\Software_Engineering\\CsharpAlgorithms\\Exercise Files\\01\\01_02\\start\\Algorithms\\obj\\",
+      "outputPath": "c:\\Users\\lejy\\Desktop\\Software_Engineering\\CsharpAlgorithms\\Exercise Files\\01\\01_02\\start\\Algorithms\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\lejy\\AppData\\Roaming\\NuGet\\NuGet.Config"
