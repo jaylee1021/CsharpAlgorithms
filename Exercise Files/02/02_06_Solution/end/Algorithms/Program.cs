@@ -29,7 +29,7 @@ namespace Algorithms {
         static void Main(string[] args) {
             int[] arr = { 1, 2, 3, 4, 5, 6 };
             RotateArrayLeft(arr);
-            RotateArrayRight(arr);
+            // RotateArrayRight(arr);
             Array.ForEach(arr, Console.WriteLine);
         }
     }
