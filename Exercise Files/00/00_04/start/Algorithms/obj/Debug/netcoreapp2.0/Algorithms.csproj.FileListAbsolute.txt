@@ -8,3 +8,17 @@
 /Users/author/Desktop/Algorithms/obj/Debug/netcoreapp2.0/Algorithms.AssemblyInfo.cs
 /Users/author/Desktop/Algorithms/obj/Debug/netcoreapp2.0/Algorithms.dll
 /Users/author/Desktop/Algorithms/obj/Debug/netcoreapp2.0/Algorithms.pdb
+C:\Users\lejy\Desktop\Software_Engineering\CsharpAlgorithms\Exercise Files\00\00_04\start\Algorithms\bin\Debug\netcoreapp2.0\Algorithms.deps.json
+C:\Users\lejy\Desktop\Software_Engineering\CsharpAlgorithms\Exercise Files\00\00_04\start\Algorithms\bin\Debug\netcoreapp2.0\Algorithms.runtimeconfig.json
+C:\Users\lejy\Desktop\Software_Engineering\CsharpAlgorithms\Exercise Files\00\00_04\start\Algorithms\bin\Debug\netcoreapp2.0\Algorithms.runtimeconfig.dev.json
+C:\Users\lejy\Desktop\Software_Engineering\CsharpAlgorithms\Exercise Files\00\00_04\start\Algorithms\bin\Debug\netcoreapp2.0\Algorithms.dll
+C:\Users\lejy\Desktop\Software_Engineering\CsharpAlgorithms\Exercise Files\00\00_04\start\Algorithms\bin\Debug\netcoreapp2.0\Algorithms.pdb
+C:\Users\lejy\Desktop\Software_Engineering\CsharpAlgorithms\Exercise Files\00\00_04\start\Algorithms\obj\Debug\netcoreapp2.0\Algorithms.csproj.AssemblyReference.cache
+C:\Users\lejy\Desktop\Software_Engineering\CsharpAlgorithms\Exercise Files\00\00_04\start\Algorithms\obj\Debug\netcoreapp2.0\Algorithms.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lejy\Desktop\Software_Engineering\CsharpAlgorithms\Exercise Files\00\00_04\start\Algorithms\obj\Debug\netcoreapp2.0\Algorithms.AssemblyInfoInputs.cache
+C:\Users\lejy\Desktop\Software_Engineering\CsharpAlgorithms\Exercise Files\00\00_04\start\Algorithms\obj\Debug\netcoreapp2.0\Algorithms.AssemblyInfo.cs
+C:\Users\lejy\Desktop\Software_Engineering\CsharpAlgorithms\Exercise Files\00\00_04\start\Algorithms\obj\Debug\netcoreapp2.0\Algorithms.csproj.CoreCompileInputs.cache
+C:\Users\lejy\Desktop\Software_Engineering\CsharpAlgorithms\Exercise Files\00\00_04\start\Algorithms\obj\Debug\netcoreapp2.0\Algorithms.sourcelink.json
+C:\Users\lejy\Desktop\Software_Engineering\CsharpAlgorithms\Exercise Files\00\00_04\start\Algorithms\obj\Debug\netcoreapp2.0\Algorithms.dll
+C:\Users\lejy\Desktop\Software_Engineering\CsharpAlgorithms\Exercise Files\00\00_04\start\Algorithms\obj\Debug\netcoreapp2.0\Algorithms.pdb
+C:\Users\lejy\Desktop\Software_Engineering\CsharpAlgorithms\Exercise Files\00\00_04\start\Algorithms\obj\Debug\netcoreapp2.0\Algorithms.genruntimeconfig.cache

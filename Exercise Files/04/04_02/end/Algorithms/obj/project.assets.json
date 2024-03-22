@@ -922,19 +922,19 @@
     ]
   },
   "packageFolders": {
-    "/Users/jay/.nuget/packages/": {}
+    "C:\\Users\\lejy\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/jay/Software_Engineering/CsharpAlgorithms/Exercise Files/04/04_02/end/Algorithms/Algorithms.csproj",
+      "projectUniqueName": "C:\\Users\\lejy\\Desktop\\Software_Engineering\\CsharpAlgorithms\\Exercise Files\\04\\04_02\\end\\Algorithms\\Algorithms.csproj",
       "projectName": "Algorithms",
-      "projectPath": "/Users/jay/Software_Engineering/CsharpAlgorithms/Exercise Files/04/04_02/end/Algorithms/Algorithms.csproj",
-      "packagesPath": "/Users/jay/.nuget/packages/",
-      "outputPath": "/Users/jay/Software_Engineering/CsharpAlgorithms/Exercise Files/04/04_02/end/Algorithms/obj/",
+      "projectPath": "C:\\Users\\lejy\\Desktop\\Software_Engineering\\CsharpAlgorithms\\Exercise Files\\04\\04_02\\end\\Algorithms\\Algorithms.csproj",
+      "packagesPath": "C:\\Users\\lejy\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\lejy\\Desktop\\Software_Engineering\\CsharpAlgorithms\\Exercise Files\\04\\04_02\\end\\Algorithms\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/Users/jay/.nuget/NuGet/NuGet.Config"
+        "C:\\Users\\lejy\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp2.0"
@@ -952,6 +952,11 @@
         "warnAsError": [
           "NU1605"
         ]
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
       }
     },
     "frameworks": {
@@ -976,8 +981,20 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
-        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.407/RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.203\\RuntimeIdentifierGraph.json"
       }
     }
-  }
+  },
+  "logs": [
+    {
+      "code": "NU1903",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'Microsoft.NETCore.App' 2.0.0 has a known high severity vulnerability, https://github.com/advisories/GHSA-7mfr-774f-w5r9",
+      "libraryId": "Microsoft.NETCore.App",
+      "targetGraphs": [
+        ".NETCoreApp,Version=v2.0"
+      ]
+    }
+  ]
 }
