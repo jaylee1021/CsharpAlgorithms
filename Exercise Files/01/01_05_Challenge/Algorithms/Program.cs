@@ -35,7 +35,7 @@ namespace Algorithms
                 return sentence;
             }
 
-            string[] words = sentence.Split(" ");
+            string[] words = sentence.Trim().Split(" ");
             string[] reverseWords = words.Select(Reverse).ToArray();
             string reversedSentence = string.Join(" ", reverseWords);
             return reversedSentence;
